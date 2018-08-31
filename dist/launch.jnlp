@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/ARNOH/Desktop/jrdesktop/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>jrdesktop - Java Remote Desktop</title>
+        <vendor>BENYAMMI Bachir</vendor>
+        <homepage href="http://jrdesktop.net/"/>
+        <description>jrdesktop is a cross-platform software that provides a remote display and control of a user's desktop.</description>
+        <description kind="short">jrdesktop - Java Remote Desktop</description>
+    <offline-allowed/>
+</information>
+<security>
+<all-permissions/>
+</security>
+    <resources>
+<j2se version="1.6+"/>
+<jar href="jrdesktop.jar" main="true"/>
+    <jar href="lib/swing-layout-1.0.4.jar"/>
+</resources>
+    <applet-desc height="320" main-class="jrdesktop.mainApplet" name="jrdesktop - Java Remote Desktop" width="490">
+    </applet-desc>
+</jnlp>

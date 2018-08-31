@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_111-b14 (Oracle Corporation)
+Codebase: C:\Users\ARNOH\Desktop\jrdesktop\dist
+Application-Library-Allowable-Codebase: C:\Users\ARNOH\Desktop\jrdeskt
+ op\dist
+Caller-Allowable-Codebase: C:\Users\ARNOH\Desktop\jrdesktop\dist
+Permissions: all-permissions
+Application-Name: jrdesktop - Java Remote Desktop
+
